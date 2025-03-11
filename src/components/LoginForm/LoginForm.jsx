@@ -1,14 +1,13 @@
 import { useId } from "react";
-
+import css from './LoginForm.module.css';
 
 
 export default function LoginForm ({ onLogin }) { 
-    const loginId = useId();
-    const passwordId = useId();
+    const id = useId();
     
     const handleSubmit = (evt) => {
         evt.preventDefault();
-    console.dir(evt.target.elements);
+        console.dir(evt.target.elements);
         
        // Викликаємо пропс onLogin
         onLogin({
@@ -20,14 +19,14 @@ export default function LoginForm ({ onLogin }) {
       };
     
       return (
-        <form onSubmit={handleSubmit}>
-      <label htmlFor={loginId}>Login</label>
-      <input type="text" name="login" id={loginId} />
+        <form className={css.form} onSubmit={handleSubmit}>
+          <label className={css.label} htmlFor={`${id}-login`}>Login</label>
+          <input className={css.input} type="text" name="login" id={`${id}-login`} />
 
-      <label htmlFor={passwordId}>Password</label>
-      <input type="password" name="password" id={passwordId} />
+          <label className={css.label} htmlFor={`${id}-password`}>Password</label>
+          <input className={css.input} type="password" name="password" id={`${id}-password`} />
 
-      <button type="submit">Login</button>
+          <button className={css.button} type="submit">Login</button>
     </form>
       );
     };
