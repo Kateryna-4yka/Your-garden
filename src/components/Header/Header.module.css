@@ -1,0 +1,31 @@
+.header{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items:baseline
+}
+
+.iconsDiv {
+    display: flex;
+    gap: 20px;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    fill: rgb(255, 255, 255);
+}
+
+.iconL {
+    width: 20px;
+    height: 20px;
+    fill: rgb(3, 90, 7);
+}
+
+.p{
+    font-size: 18px;
+    cursor: pointer;
+    padding: 20px;
+
+}

@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "title": "Rose (Rosa)",
+      "text": "Roses need at least six hours of direct sunlight daily. Water deeply but infrequently, keeping the soil moist but not soggy. Prune regularly to remove dead or weak branches and encourage blooming. Use a well-draining, nutrient-rich soil and fertilize during the growing season. Mulch around the base to retain moisture and suppress weeds."
+    },
+    {
+      "id": 2,
+      "title": "Tulip (Tulipa)",
+      "text": "Tulips thrive in full sun and well-draining soil. Plant bulbs in the fall before the ground freezes. Water lightly after planting and regularly in spring. Avoid excessive moisture, as it can cause bulb rot. Remove spent flowers to direct energy back into the bulb. Fertilize with a balanced fertilizer in early spring."
+    },
+    {
+      "id": 3,
+      "title": "Daffodil (Narcissus)",
+      "text": "Daffodils prefer full to partial sun and well-draining soil. Plant bulbs in the fall, ensuring they are deep enough to prevent frost damage. Water moderately during growth but avoid overwatering. Deadhead spent flowers but leave the foliage to nourish the bulbs. Fertilize in early spring for best blooms."
+    },
+    {
+      "id": 4,
+      "title": "Lily (Lilium)",
+      "text": "Lilies require full sun to partial shade and well-draining, fertile soil. Water regularly but do not let the roots sit in water. Mulch around the base to maintain moisture. Remove spent flowers to encourage new blooms. Apply a slow-release fertilizer in spring to promote healthy growth."
+    },
+    {
+      "id": 5,
+      "title": "Peony (Paeonia)",
+      "text": "Peonies grow best in full sun and well-draining soil. Water deeply but infrequently, ensuring the roots are not sitting in water. Support heavy blooms with stakes if needed. Prune spent flowers to maintain plant health. Apply compost or balanced fertilizer in early spring."
+    },
+    {
+      "id": 6,
+      "title": "Marigold (Tagetes)",
+      "text": "Marigolds prefer full sun and well-draining soil. Water at the base to prevent fungal diseases. Deadhead regularly to encourage continuous blooming. These flowers are low-maintenance and deter pests naturally. Fertilize lightly if needed but avoid excessive nitrogen."
+    },
+    {
+      "id": 7,
+      "title": "Lavender (Lavandula)",
+      "text": "Lavender thrives in full sun and well-draining, sandy soil. Water sparingly, as it is drought-tolerant. Prune annually to maintain shape and encourage new growth. Avoid humid conditions to prevent root rot. Harvest flowers for drying when they begin to bloom."
+    },
+    {
+      "id": 8,
+      "title": "Dahlia (Dahlia)",
+      "text": "Dahlias need full sun and well-draining, fertile soil. Water deeply 2-3 times per week. Support taller varieties with stakes. Deadhead spent flowers to encourage continuous blooms. Lift tubers in fall in colder climates and store them indoors over winter."
+    },
+    {
+      "id": 9,
+      "title": "Sunflower (Helianthus)",
+      "text": "Sunflowers require full sun and well-draining soil. Water regularly but do not overwater. Tall varieties may need staking. Remove spent flowers to prolong blooming. Fertilize with a balanced fertilizer to support healthy growth."
+    },
+    {
+      "id": 10,
+      "title": "Chrysanthemum (Chrysanthemum)",
+      "text": "Chrysanthemums thrive in full sun and well-draining soil. Water consistently, keeping the soil moist but not soggy. Pinch back young plants to encourage bushier growth. Deadhead regularly to extend the blooming period. Apply compost or fertilizer in spring."
+    },
+    {
+      "id": 11,
+      "title": "Petunia (Petunia)",
+      "text": "Petunias require full sun and well-draining soil. Water frequently but avoid overhead watering. Deadhead spent flowers for continuous blooms. Fertilize every 2 weeks with a balanced liquid fertilizer. Protect from heavy rain, as delicate flowers can be damaged."
+    },
+    {
+      "id": 12,
+      "title": "Geranium (Pelargonium)",
+      "text": "Geraniums need full sun to partial shade and well-draining soil. Water moderately, allowing soil to dry slightly between waterings. Deadhead regularly for continuous flowering. Fertilize every few weeks during the growing season. Overwinter indoors in colder climates."
+    },
+    {
+      "id": 13,
+      "title": "Zinnia (Zinnia)",
+      "text": "Zinnias thrive in full sun and well-draining soil. Water deeply but infrequently to prevent mildew. Deadhead spent blooms for prolonged flowering. They attract pollinators and are drought-tolerant. Fertilize sparingly for best results."
+    },
+    {
+      "id": 14,
+      "title": "Hyacinth (Hyacinthus)",
+      "text": "Hyacinths prefer full sun to partial shade and well-draining soil. Plant bulbs in fall for spring blooms. Water moderately but avoid overwatering. Deadhead spent flowers but leave the foliage to replenish the bulb. Fertilize in early spring for best blooms."
+    },
+    {
+      "id": 15,
+      "title": "Foxglove (Digitalis)",
+      "text": "Foxgloves thrive in partial shade and well-draining, moist soil. Water regularly but avoid waterlogging. Deadhead to extend blooming, but allow some flowers to go to seed if self-seeding is desired. Foxgloves are toxic if ingested, so handle with care."
+    },
+    {
+      "id": 16,
+      "title": "Hollyhock (Alcea)",
+      "text": "Hollyhocks prefer full sun and well-draining soil. Water regularly, keeping the soil moist but not soggy. Provide support for taller stems. Remove spent flowers to encourage reblooming. These biennials often self-seed for future seasons."
+    },
+    {
+      "id": 17,
+      "title": "Bleeding Heart (Dicentra)",
+      "text": "Bleeding Hearts prefer partial shade and moist, well-draining soil. Water consistently to maintain even moisture. Mulch around the base to retain moisture. After blooming, foliage dies back naturally. Fertilize in early spring for a strong start."
+    },
+    {
+      "id": 18,
+      "title": "Coneflower (Echinacea)",
+      "text": "Coneflowers require full sun and well-draining soil. They are drought-tolerant and attract pollinators. Water moderately, especially during hot weather. Deadhead to encourage prolonged blooming. Divide plants every few years to maintain vigor."
+    },
+    {
+      "id": 19,
+      "title": "Iris (Iris)",
+      "text": "Irises thrive in full sun and well-draining soil. Water regularly but avoid excessive moisture. Deadhead spent flowers and trim foliage in fall. Divide rhizomes every few years to prevent overcrowding. Fertilize in early spring for best results."
+    },
+    {
+      "id": 20,
+      "title": "Gladiolus (Gladiolus)",
+      "text": "Gladiolus requires full sun and well-draining soil. Water deeply but avoid waterlogging. Stake taller varieties to prevent bending. Plant corms in succession for extended blooming. Lift and store corms indoors in colder climates for replanting next year."
+    }
+  ]
+  
