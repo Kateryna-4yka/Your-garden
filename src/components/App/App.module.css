@@ -1,0 +1,35 @@
+.div {
+    padding: 20px;
+}
+
+.nav {
+    display: flex; 
+    justify-content: space-between;
+    margin-bottom: 40px;
+    align-items: baseline;
+}
+
+.link {
+    padding: 10px 30px;
+    border-radius: 15px;
+    font-weight: 600;
+}
+
+.active {
+    text-decoration:underline;
+    background-color: rgba(58, 146, 0, 0.171);
+}
+
+.iconsDiv {
+   display: flex;
+   gap: 10px; 
+}
+
+.icon {
+    fill:rgb(218, 218, 218);
+}
+
+.iconL{
+    fill:  rgb(58, 146, 0);
+}
+

@@ -1,0 +1,13 @@
+.titleh1 {
+    text-align: center;
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.text {
+    text-indent: 5%;
+    font-size: 20;
+}
